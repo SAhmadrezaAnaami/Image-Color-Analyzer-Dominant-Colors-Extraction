@@ -10,7 +10,7 @@ This project provides a Python-based image color analyzer that utilizes the K-Me
 
 ---
 
-![](images/2.png)
+![](images/2.jpg)
 
 ---
 
